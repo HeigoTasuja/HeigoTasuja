@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @HeigoTasuja
 - 👀 I’m interested in technology and engineering.
-- 🌱 I’m currently learning Python, also a bit JS for web development!
+- 🌱 Python is my go to language.
+- !!! No activity on my personal account, because I have a small kid, and there is where all my energy and free time goes!
