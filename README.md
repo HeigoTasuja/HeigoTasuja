@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeigoTasuja
 - 👀 I’m interested in technology and engineering.
 - 🌱 Python is my go to language.
-- !!! No activity on my personal account, because I have a small kid, and there is where all my energy and free time goes!
+- !!! No activity on my personal account, because I have a small kid, and this is where all my energy and free time goes!
 - Oh! And I use Arch BTW!
